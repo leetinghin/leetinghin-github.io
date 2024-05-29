@@ -35,6 +35,8 @@
 
 .navbar-brand img {
   margin-top: -8px;
+  width: 150px;
+  height: auto;
 }
 
 .navbar-nav .dropdown-menu {
