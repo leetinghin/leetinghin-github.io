@@ -65,6 +65,12 @@ label {
 .section-title {
 	margin-bottom: 20px;
 }
+
+.larger-image {
+  width: 300px; /* Adjust the width as desired */
+  height: auto; /* Maintain aspect ratio by setting height to auto */
+}
+
 /* Header */
 #head {
 	/*background: #181015 url( ../images/bg_header.jpg) no-repeat;*/
