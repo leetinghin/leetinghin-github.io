@@ -67,7 +67,7 @@ label {
 }
 
 .larger-image {
-  width: 300px; /* Adjust the width as desired */
+  width: 500px; /* Adjust the width as desired */
   height: auto; /* Maintain aspect ratio by setting height to auto */
 }
 
