@@ -36,6 +36,11 @@ h2 {
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400 !important;
 }
+table, th, td {
+  border: 1px solid black;
+}
+
+
 blockquote {
 	font-style: italic;
 	font-family: Georgia;
@@ -727,6 +732,7 @@ nav#filter a.current {
 	margin: 0;
 	text-align: center;
 }
+
 #head.secondary {
 	height: 100px;
 	min-height: 100px;
