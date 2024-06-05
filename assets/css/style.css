@@ -40,6 +40,10 @@ table, th, td {
   border: 1px solid black;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+  }
 
 blockquote {
 	font-style: italic;
