@@ -88,7 +88,22 @@ label {
 }
 
 
-
+  .team-member {
+    display: flex;
+    align-items: center;
+  }
+  .team-member-image {
+    margin-right: 10px;
+  }
+  .team-member-description {
+    flex: 1;
+  }
+  .team-member-name {
+    font-weight: bold;
+  }
+  .team-member-title {
+    font-style: italic;
+  }
 
 /* Header */
 #head {
