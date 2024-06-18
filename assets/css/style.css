@@ -88,32 +88,6 @@ label {
 }
 
 
-.lab-members {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.member {
-  display: flex;
-  align-items: center;
-  margin-bottom: 20px;
-}
-
-.member img {
-  width: 100px;
-  height: 100px;
-  margin-right: 10px;
-}
-
-.member-info h3 {
-  margin: 0;
-}
-
-.member-info p {
-  margin: 5px 0 0;
-}
-
-
 
 
 /* Header */
