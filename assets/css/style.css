@@ -87,6 +87,35 @@ label {
   height: auto; /* Maintain aspect ratio by setting height to auto */
 }
 
+
+.lab-members {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.member {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.member img {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.member-info h3 {
+  margin: 0;
+}
+
+.member-info p {
+  margin: 5px 0 0;
+}
+
+
+
+
 /* Header */
 #head {
 	/*background: #181015 url( ../images/bg_header.jpg) no-repeat;*/
