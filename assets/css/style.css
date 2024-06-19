@@ -91,13 +91,17 @@ label {
   float: left;
 }
 
-.left, .right {
+.left {
   width: 30%;
 }
 
 .middle {
-  width: 40%;
+  width: 20%;
 }
+
+ .right{
+  width: 50%;
+ }
 
 
 
