@@ -87,18 +87,16 @@ label {
   height: auto; /* Maintain aspect ratio by setting height to auto */
 }
 
-
-/* Create two equal columns that floats next to each other */
-.column1 {
+.column {
   float: left;
-  width: 35%;
 }
 
+.left, .right {
+  width: 30%;
+}
 
-/* Create two equal columns that floats next to each other */
-.column2 {
-  float: right;
-  width: 65%;
+.middle {
+  width: 40%;
 }
 
 
