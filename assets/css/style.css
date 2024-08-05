@@ -123,7 +123,7 @@ margin-bottom: 10px; /* Add bottom margin */
 /* Header */
 
 #head {
-  background-image: url('../images/bg_header.jpg');
+  background: #181015 url('../images/bg_header.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   height: 600px;
