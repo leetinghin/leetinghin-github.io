@@ -774,15 +774,7 @@ nav#filter a.current {
 	text-align: center;
 }
 
-#head.secondary {
-	height: 100px;
-	min-height: 100px;
-	padding-top: 0px;
-	background: #181015 url(../images/bg_header.jpg) 0px -761px no-repeat;
-	/*background: #ae130c;*/
-	background-size: cover;
-	text-align: left;
-}
+
 /*Price table*/
 .flat {
 	margin: 30px 0;
