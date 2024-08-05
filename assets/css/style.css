@@ -40,6 +40,7 @@ table, th, td {
     justify-content: center;
   }
 
+
 blockquote {
 	font-style: italic;
 	font-family: Georgia;
@@ -120,18 +121,20 @@ margin-bottom: 10px; /* Add bottom margin */
 
 
 /* Header */
+
 #head {
-	/*background: #181015 url( ../images/bg_header.jpg) no-repeat;*/
-	background-size: cover;
-	height: 600px;
-	text-align: center;
-	color: white;
-	font-weight: 300;
-	position: relative;
-	border-top: 2px solid #ae130c;
-	border-bottom: 2px solid #ae130c;
-	background-position-x: center;
+  background-image: url('../images/bg_header.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+  text-align: right;
+  color: white;
+  font-weight: 300;
+  position: relative;
+  border-top: 2px solid #ae130c;
+  border-bottom: 2px solid #ae130c;
 }
+
 #head.secondary {
 	height: 100px;
 	min-height: 100px;
